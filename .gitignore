@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.env
+*.sh
+/coverage
+
+.nyc_output
+config/data.json
